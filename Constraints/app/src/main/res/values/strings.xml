@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Constraints</string>
+
+    <string name="short_text">Short text</string>
+    <string name="med_text">Medium text that takes up more space</string>
+    <string name="long_text">"Long text that overflows onto an extra line and it just goes on and on and why won't it stop."</string>
+    <string name="multiline_text">Many\nlines\nof\ntext\nto\ntake\nup\nspace</string>
+</resources>
